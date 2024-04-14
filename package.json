@@ -1,8 +1,8 @@
 {
-  "name": "projeto-tecno-jr",
+  "name": "Projeto-TecnoJr",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Projeto realizado como parte do processo seletivo da TecnoJr",
+  "author": " João Vitor Guimarães e Yuri Coutinho Costa :)",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
